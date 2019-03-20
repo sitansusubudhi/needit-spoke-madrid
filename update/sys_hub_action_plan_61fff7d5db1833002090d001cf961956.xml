@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Get Property">30b22619db1433002090d001cf961989</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"61fff7d5db1833002090d001cf961956","name":"plan"}}</plan>
+        <snapshot>fcffb7d5db1833002090d001cf9619c4</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>sys.admin</sys_created_by>
+        <sys_created_on>2019-03-19 16:53:44</sys_created_on>
+        <sys_id>61fff7d5db1833002090d001cf961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30b22619db1433002090d001cf961989</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_227734_needit_sp">80726219db1433002090d001cf9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">80726219db1433002090d001cf9619ed</sys_scope>
+        <sys_update_name>sys_hub_action_plan_61fff7d5db1833002090d001cf961956</sys_update_name>
+        <sys_updated_by>sys.admin</sys_updated_by>
+        <sys_updated_on>2019-03-19 16:53:44</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>
